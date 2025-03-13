@@ -1,3 +1,5 @@
+FORK - Updated to use the Gemini 2.0
+
 # Build Chatbot with the Gemini API
 
 **Author**: Google Cloud (**[https://cloud.google.com/](https://cloud.google.com/)**)
